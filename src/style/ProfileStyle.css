@@ -1,0 +1,23 @@
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    color: white;
+
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon {
+    font-size: 40px;
+}
+
+.cart {
+    font-size: 35px;
+    cursor: pointer;
+    margin-right: 170px;
+}
